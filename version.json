@@ -1,5 +1,7 @@
 {
-  "version": "1.1.0",
+  "version": "1.0.0",
   "download_url": "https://github.com/GEliasDev/space-interstellar/releases/latest/download/GestionInventarios.exe",
-  "revoked": []
+  "revoked": [
+    "f1e1c4a6f215b0e0b8ceb6d2967f2dc8"
+  ]
 }
